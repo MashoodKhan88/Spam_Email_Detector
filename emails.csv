@@ -1,0 +1,6 @@
+text,label
+"Click here to claim your prize",spam
+"Are we still meeting tomorrow?",ham
+"Hello, you have won a free voucher. Claim it now!",spam
+"You won a free gift card. Click here to claim it.",spam
+"Can we discuss the voucher order at our meeting?",ham
